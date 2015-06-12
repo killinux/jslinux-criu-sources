@@ -6,10 +6,7 @@ CRIU is a project to implement checkpoint/restore functionality for Linux in use
 
 This README describes how to setup demonstration stand with CRIU inside jslinux.
 
-* download-original - download original code and binaries.
-
-
-#### Enable EPEL repository 
+#### Enable EPEL repository
 
 ```
 wget http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm
