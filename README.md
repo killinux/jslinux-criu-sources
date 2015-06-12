@@ -100,5 +100,11 @@ we can use demo with checkpoint of [simple program with loop](http://criu.org/Si
 
 ### See also
 
-* <http://sourceforge.net/projects/toysbox/files/jsPCemulator_haveFun/>
-* <https://github.com/kmacrow/Vespen/blob/master/linuxstart-20120111/linux-3.7.0-rc3-config>
+* [ToysBox](http://sourceforge.net/projects/toysbox/files/jsPCemulator_haveFun/)
+* [Linux kernel config 3.7.0](https://github.com/kmacrow/Vespen/blob/master/linuxstart-20120111/linux-3.7.0-rc3-config)
+* [Docker Tutorial](https://www.docker.com/tryit/#1)
+* [Ubuntu Tour](http://www.ubuntu.com/tour/en/)
+* [musl libc demo](http://www.openwall.com/lists/musl/2014/03/15/3)
+* [Virtual x86](http://copy.sh/v86/)
+* [Online OR1K Emulator running Linux](http://jor1k.com)
+* [Javascript emulator for the LatticeMico platform](https://github.com/ubercomp/jslm32)
