@@ -93,18 +93,18 @@ we can use demo with checkpoint of [simple program with loop](http://criu.org/Si
 
 ### TODO
 
-* compile criu and put binaries to hda
-* port patches to latest linux kernel (4.0?)
-* https://www.kernel.org/pub/linux/kernel/v4.x/linux-4.0.4.tar.gz
-* make OpenVZ demo
+* Port Bellard's patches to latest linux kernel (4.0.4+)
+* Make an OpenVZ demo
 
 ### See also
 
-* [ToysBox](http://sourceforge.net/projects/toysbox/files/jsPCemulator_haveFun/)
-* [Linux kernel config 3.7.0](https://github.com/kmacrow/Vespen/blob/master/linuxstart-20120111/linux-3.7.0-rc3-config)
 * [Docker Tutorial](https://www.docker.com/tryit/#1)
 * [Ubuntu Tour](http://www.ubuntu.com/tour/en/)
+* [Rust language playground](https://play.rust-lang.org/)
 * [musl libc demo](http://www.openwall.com/lists/musl/2014/03/15/3)
+* [ToysBox](http://sourceforge.net/projects/toysbox/files/jsPCemulator_haveFun/)
+* [Linux kernel config 3.7.0](https://github.com/kmacrow/Vespen/blob/master/linuxstart-20120111/linux-3.7.0-rc3-config)
 * [Virtual x86](http://copy.sh/v86/)
 * [Online OR1K Emulator running Linux](http://jor1k.com)
 * [Javascript emulator for the LatticeMico platform](https://github.com/ubercomp/jslm32)
+* [ANGEL - Browser-based RISC-V ISA simulator](http://riscv.org/angel/)
