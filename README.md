@@ -1,6 +1,7 @@
 # jslinux-criu
 
-CRIU is a project to implement checkpoint/restore functionality for Linux in userspace.
+[CRIU](http://criu.org/) is a project to implement checkpoint/restore
+functionality for Linux in userspace.
 
 [jslinux](http://bellard.org/jslinux/) is Javascript PC Emulator written by Fabrice Bellard.
 
@@ -66,7 +67,7 @@ make menuconfig
 
 You can use default buildroot config with small changes:
 
-- add file, tmux utilities
+- add file, tmux, gcc, make utilities
 - switch to using glibc
 
 Run compilation:
