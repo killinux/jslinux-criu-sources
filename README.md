@@ -26,7 +26,7 @@ Download Linux kernel source code:
 
 ```
 cd /usr/src/kernels/
-curl -O https://www.kernel.org/pub/linux/kernel/v3.0/linux-3.0.3.tar.gz
+curl -O https://www.kernel.org/pub/linux/kernel/v4.0/linux-4.0.4.tar.gz
 ```
 
 Download patch with implementation of serial device.
