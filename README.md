@@ -98,6 +98,8 @@ we can use demo with checkpoint of [simple program with loop](http://criu.org/Si
 
 ### See also
 
+* [Alpine Linux demo](http://xming.github.io/alpine-v86/demo2/coldboot.html)
+* [JSLinux rewritten to be human readable](https://github.com/levskaya/jslinux-deobfuscated)
 * [Docker Tutorial](https://www.docker.com/tryit/#1)
 * [Ubuntu Tour](http://www.ubuntu.com/tour/en/)
 * [Rust language playground](https://play.rust-lang.org/)
